@@ -29,7 +29,7 @@ export default {
 ```
 
 
-react-redux-posts-comments-app
+```react-redux-posts-comments-app
 ├── public
 │   ├── index.html
 ├── src
@@ -56,7 +56,7 @@ react-redux-posts-comments-app
 │   ├── index.tsx
 │   ├── store.ts
 ├── package.json
-└── README.md
+└── README.md ```
 
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
